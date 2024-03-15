@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Welcome%20to&fontColor=f3f3f3&fontSize=60&desc=ha0's%20GitHub&descAlignY=64)
+
+<div style="display:flex; flex-direction:row;">
+<img src="https://img.shields.io/badge/React-react?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+</div>
 
 <!--
 **lha0/lha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
