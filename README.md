@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Welcome%20to&fontColor=f3f3f3&fontSize=60&desc=ha0's%20GitHub&descAlignY=64)
 
+<div align="center">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lha0)](https://solved.ac/lha0)
+</div>
+
 <!-- 
 <div align="center">
 ### 💻 Tech 💻
