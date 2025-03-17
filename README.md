@@ -1,5 +1,56 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Welcome%20to&fontColor=f3f3f3&fontSize=60&desc=ha0's%20GitHub&descAlignY=64)
 
+### Education
+<table style="font-size: 9pt;">
+  <tr>
+    <th>기간</th>
+    <th>활동명</th>
+    <th>활동 내용</th>
+  </tr>
+  <tr>
+    <td>2024.07 ~</td>
+    <td>삼성 청년 SW 아카데미</td>
+    <td>Java 전공반</td>
+  </tr>
+</table>
+
+### Awards
+<table style="font-size: 9pt;">
+  <tr>
+    <th>대회</th>
+    <th>수상 내용</th>
+    <th>프로젝트명</th>
+    <th>프로젝트 설명</th>
+    <th>역할</th>
+  </tr>
+  <tr>
+    <td>SSAFY 공통 프로젝트</td>
+    <td>우수상 (1등)</td>
+    <td>마음온</td>
+    <td>AI 사회자 기반 온라인 화상채팅 자조모임 플랫폼</td>
+    <td>FE, 팀장</td>
+  </tr>
+  <tr>
+    <td>AICP (AI Challengers Program)</td>
+    <td>우수상</td>
+    <td>Quansume</td>
+    <td>클러스터링 알고리즘 기반 선호하는 음악의 음향 특성을 고려한 음향기기 추천 큐레이터</td>
+    <td>AI</td>
+  </tr>
+</table>
+
+### Tech Stack
+<div>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
+</div>
+
+### Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lha0)](https://solved.ac/lha0)<br/>
 <!-- 
@@ -28,19 +79,4 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
   </div>
 </div>
--->
-
-<!--
-**lha0/lha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
