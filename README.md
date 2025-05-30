@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Welcome%20to&fontColor=f3f3f3&fontSize=60&desc=ha0's%20GitHub&descAlignY=64)
-
 ### Education
 <table style="font-size: 9pt;">
   <tr>
@@ -22,6 +20,20 @@
     <th>프로젝트명</th>
     <th>프로젝트 설명</th>
     <th>역할</th>
+  </tr>
+  <tr>
+    <td>SSAFY 자율 프로젝트</td>
+    <td>우수상 (2등)</td>
+    <td>MyLio</td>
+    <td>생성형 AI 기반 음성인식 키오스크</td>
+    <td>FE, 팀장</td>
+  </tr>
+   <tr>
+    <td>SSAFY 특화 프로젝트</td>
+    <td>우수상 (2등)</td>
+    <td>Recipedia</td>
+    <td>생성형 AI 기반 레시피 추천 서비스</td>
+    <td>FE, 팀장</td>
   </tr>
   <tr>
     <td>SSAFY 공통 프로젝트</td>
